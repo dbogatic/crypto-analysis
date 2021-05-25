@@ -15,8 +15,6 @@
 
 * Transaction Volume (TxTfrValAdjUSD) - The USD value of the sum of native units transferred that day removing noise and certain artifacts.
 
-* Hash Rate (HashRate) - Hash rate gives an estimate of how much hash power is mining a given chain.
-
-* Exponential Moving Average - Technical analysis to determine price movement compared to its average as well as crossing points that could point to trend reversal.
+* Exponential Moving Average (EMA) - Technical analysis to determine price movement compared to its average as well as crossing points that could point to trend reversal.
 #
 © 2021 Author: Dragan Bogatic
