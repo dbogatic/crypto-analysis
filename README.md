@@ -1,12 +1,12 @@
 # Crypto Analysis
 ![image](images/cryptocurrency.jpg)
-#
+
 * This repo attempts to determine the direction of crypto asset movement based on selected market information as well as to identify if there are leading indicators that could point the direction of movement.
 
 * Data obtained from [Coinmetrics](https://docs.coinmetrics.io/api/v4) community (free) level API.
 #
 ## Data Analyzed
-#
+
 * Velocity (VelCur1yr) - The ratio of the value transferred (i.e., the aggregate "size" of all transfers) in the trailing 1 year divided by the current supply on that day. It can be thought of as a rate of turnover -- the number of times that an average native unit has been transferred in the past 1 year.
 
 * Network Value to Transaction (NVTAdj) - The ratio of the network value (or market capitalization, current supply) divided by the adjusted transfer value. Also referred to as NVT.
