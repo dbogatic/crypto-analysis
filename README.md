@@ -17,7 +17,9 @@
 
 * Exponential Moving Average (EMA) - Technical analysis to determine price movement compared to its average as well as crossing points that could point to trend reversal.
 
-* Additionally, I compared BTC and ETH with main market indexes S&P 500, Dow Jones Industrial Average and Nasdaq-100 to determine cumulative return, volatility, Sharpe and Sortino ratios.
+* Additionally, I compared BTC and ETH with main market indexes S&P 500, Dow Jones Industrial Average and Nasdaq-100 to determine cumulative return, volatility, Sharpe and Sortino ratios. 
+
+* Index data pulled using yfinance API. 
 
 #
 © 2021 Author: Dragan Bogatic
