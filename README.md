@@ -17,6 +17,8 @@
 
 * Exponential Moving Average (EMA) - Technical analysis to determine price movement compared to its average as well as crossing points that could point to trend reversal.
 
+* Hash Rate, Mean (HashRate) - Hash rate is derived from difficulty (DiffMean), the rate at which block came in (BlkIntMean) and depending on the protocols, some other pieces of data. It gives an estimate of how much hash power is mining a given chain.
+
 * Additionally, I compared BTC and ETH with main market indexes S&P 500, Dow Jones Industrial Average and Nasdaq-100 to determine cumulative return, volatility, Sharpe and Sortino ratios. 
 
 * Index data pulled using yfinance API. 
