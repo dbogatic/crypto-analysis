@@ -21,7 +21,7 @@
 
 * Additionally, I compared BTC and ETH with main market indexes S&P 500, Dow Jones Industrial Average and Nasdaq-100 to determine cumulative return, volatility, Sharpe and Sortino ratios. 
 
-* Index data pulled using yfinance API. 
+* Index data pulled using [yfinance](https://pypi.org/project/yfinance/) API. 
 
 #
 © 2021 Author: Dragan Bogatic
