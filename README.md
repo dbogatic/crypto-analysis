@@ -21,6 +21,8 @@
 
 * Additionally, I compared BTC and ETH with main market indexes S&P 500, Dow Jones Industrial Average and Nasdaq-100 to determine cumulative return, volatility, Sharpe and Sortino ratios. 
 
+* Added backtesting SMA strategy for BTC and ETH using [Vectorbt](https://github.com/polakowo/vectorbt) API.
+
 * Index data pulled using [yfinance](https://pypi.org/project/yfinance/) API. 
 
 #
