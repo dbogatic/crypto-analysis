@@ -19,9 +19,13 @@
 
 * Hash Rate, Mean (HashRate) - Hash rate is derived from difficulty (DiffMean), the rate at which block came in (BlkIntMean) and depending on the protocols, some other pieces of data. It gives an estimate of how much hash power is mining a given chain.
 
+* MVRV - (CapMVRVCur) - The ratio of the sum USD value of the current supply to the sum "realized" USD value of the current supply. This ratio potentially indicates periods of overvaluation (when network value far exceeds its historical relationship to realized cap) and undervaluation.
+
 * Additionally, I compared BTC and ETH with main market indexes S&P 500, Dow Jones Industrial Average and Nasdaq-100 to determine cumulative return, volatility, Sharpe and Sortino ratios. 
 
 * Added backtesting SMA strategy for BTC and ETH using [Vectorbt](https://github.com/polakowo/vectorbt) API.
+
+* Used Random Forest Classifier to predict price direction from Coinmetrics API metrics as well EMA trading signals as model features. 
 
 * Index data pulled using [yfinance](https://pypi.org/project/yfinance/) API. 
 
