@@ -27,6 +27,8 @@
 
 * Used Random Forest Classifier to predict price direction from Coinmetrics API metrics as well EMA trading signals as model features. 
 
+* Pulled ETH and BTC Google trends from [Pytrends](https://pypi.org/project/pytrends/) API and compared to the price movements. 
+
 * Index data pulled using [yfinance](https://pypi.org/project/yfinance/) API. 
 
 #
