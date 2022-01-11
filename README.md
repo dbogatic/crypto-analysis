@@ -33,8 +33,6 @@
 
 * Scraped hourly HTML technical indicators for BTC and ETH from [Investing.com](https://www.investing.com/indices/investing.com-btc-usd-technical) using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 
-* Scraped daily (you can specify different available timeframes) BTC and ETH technical indicators using [Selenium](https://selenium-python.readthedocs.io/) and [ChromeDriver](https://chromedriver.chromium.org/getting-started).
-
 * Used [pandas-ta](https://pypi.org/project/pandas-ta/) library to obtain ETH and BTC technical indicators used as features in Random Forest Classifier. 
 #
 © 2021 Author: Dragan Bogatic
