@@ -3,7 +3,7 @@
 
 * This repo attempts to determine the direction of crypto asset movement based on selected market information as well as to identify if there are leading indicators that could point the direction of movement.
 
-* Data obtained from [Coinmetrics](https://docs.coinmetrics.io/api/v4) community (free) level API, [Vectorbt](https://github.com/polakowo/vectorbt), [Pytrends](https://pypi.org/project/pytrends/), [yfinance](https://pypi.org/project/yfinance/) and [Investing.com](https://www.investing.com/indices/investing.com-btc-usd-technical) using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Selenium](https://selenium-python.readthedocs.io/) to scrape HTML tables. 
+* Data obtained from [Coinmetrics](https://docs.coinmetrics.io/api/v4) community (free) level API, [Vectorbt](https://github.com/polakowo/vectorbt), [Pytrends](https://pypi.org/project/pytrends/), [yfinance](https://pypi.org/project/yfinance/) and [Investing.com](https://www.investing.com/indices/investing.com-btc-usd-technical) using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to scrape HTML tables. 
 #
 ## Data Analyzed
 
